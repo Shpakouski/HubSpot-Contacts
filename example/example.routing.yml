@@ -1,7 +1,0 @@
-example.form:
-    path: '/hubspot-form'
-    defaults:
-      _title: 'Hubspot Contacts form'
-      _form: '\Drupal\example\Form\ExampleForm'
-    requirements:
-      _permission: 'access content'
