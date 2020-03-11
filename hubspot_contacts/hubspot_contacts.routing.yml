@@ -1,0 +1,7 @@
+hubspot_contacts.form:
+    path: '/hubspot-form'
+    defaults:
+      _title: 'Hubspot Contacts form'
+      _form: '\Drupal\hubspot_contacts\Form\HubspotContactsForm'
+    requirements:
+      _permission: 'access content'

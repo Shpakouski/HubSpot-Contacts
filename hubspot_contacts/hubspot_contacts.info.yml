@@ -1,0 +1,5 @@
+name: Hubspot Module
+description: Create hubspot contacts.
+package: Custom
+type: module
+core: 8.x
